@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: testcm
 data:
-  dbPort: "3306"
+  dbPort: "27017"
